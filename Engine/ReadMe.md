@@ -28,18 +28,31 @@ Console 2 - This secondary console will store in its variables the positions of 
 Console 3 - Identical to console two except it is now for the black pieces.
 
 Console 4 - This console will use the upper thirteen variables of the alphabet for white and the lower thirteen variables of the alphabet for black as the means by which castling rights are permitted. For each 13 variables, they are organized by the following purposes as boolean values 
+
      1 : Has king not moved?
+     
      2 : Has queenside rook not moved?
+     
      3 : Has kingside rook not moved?
+     
      4 : Is King not in check?
+     
      5 : Is f1 not in check?
+     
      6 : Is g1 not in check?
+     
      7 : Is f1 unoccupied?
+     
      8 : Is g1 unoccupued?
+     
      9 : Is c1 not in check?
+     
      10 : Is d1 not in check?
+     
      11 : Is b1 unoccupied?
+     
      12 : Is c1 unoccupied?
+     
      13 : Is d1 unoccupied?
 
 Console 5 - 
