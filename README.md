@@ -1,5 +1,5 @@
 # A2600-NodeChess
-A decentralized and human interfaced chess engine written across a series of Atari 2600 “Basic Programming” game cartridges.
+A decentralized and human routed chess engine written across a series of Atari 2600 “Basic Programming” game cartridges.
 
 The goal of this project is more or less to make a monster. A system that can play chess autonomously with no human thinking required aside from that of moving numbers from system to system at the discretion of a set of instructions as provided from that of a different set of Atari systems.
 
