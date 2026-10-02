@@ -1,1 +1,1 @@
-# Descriptions of the individual consoles
+# Descriptors of the individual consoles
