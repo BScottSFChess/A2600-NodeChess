@@ -9,8 +9,11 @@ The system is planned to work across a series of simultaneously powered Atari 26
 So, it looks almost like a layered system, where :
 
 L4 is the master control layer.
+
 L3 routes closely related routing systems.
+
 L2 is the immediate routing between closely related systems in L1.
+
 L1 is the base chess engine split across multiple consoles.
 
 # Why?
