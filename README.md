@@ -18,3 +18,9 @@ L1 is the base chess engine split across multiple consoles.
 
 # Why?
 The overall goal is to beat the official Atari “Video Chess” game cartridge at its maximum strength. For the purpose of the project is to build an “easy to use” system that can play high level chess despite what the limits of computer hardware at the time looked like for our eccentric user, of course, all at the cost of practicality.
+
+# Resources used
+1. https://chessprogramming.org/Evaluation
+2. https://chessprogramming.org/Search
+3. https://chessprogramming.org/Board_Representation
+4. https://chessprogramming.org/Opening_Book
